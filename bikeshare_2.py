@@ -6,6 +6,8 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+#Test1 for git project
+
 def get_raw(df):
     # Ask user if they want to see first 5 lines in the raw dat
     raw = input('Do you want to see first 5 lines of raw data? Enter yes or no: ')
