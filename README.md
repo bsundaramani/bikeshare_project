@@ -36,6 +36,8 @@ Mostly I searched on Internet to help me with the syntax for these items.
 - try and except
 - what function to get the most common out of value_counts
 - used groupby for the question to combine start and end station
+- Add a new function called get_raw
 
 Many syntax for stats function, I got them from the lesson itself, like mode()[0]
+
 
